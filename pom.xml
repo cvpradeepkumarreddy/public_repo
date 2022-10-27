@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>01-maven-web-application</finalName>
+    <finalName>irtc_app</finalName>
   </build>
 </project>
